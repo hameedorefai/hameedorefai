@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20.Net%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🏢 .Net Backend developer
+- 🏢 Backend developer
 - 🎓 BSc in Computer Information Systems (Expected Graduation: 2025) - Al-Quds Open University
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Ask me about <strong>C#, SQL Server, WinForm and Ado.net</strong>

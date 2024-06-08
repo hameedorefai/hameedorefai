@@ -11,7 +11,7 @@
 </p>
 
 - 🏢 Backend developer
-- 🎓 BSc in Computer Information Systems (Expected Graduation: 2025) - Al-Quds Open University
+- 🎓 Bachelor in Computer Information Systems (Expected Graduation: 2025) - Al-Quds Open University
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Ask me about <strong>C#, SQL Server, WinForm and Ado.net</strong>
 ### Experience

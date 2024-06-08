@@ -16,9 +16,8 @@
 - 💬 Ask me about <strong>C#, SQL Server, WinForm and Ado.net</strong>
 ### Experience
 
--I have completed the first 19 courses of [Programming Advices](https://programmingadvices.com/), which covers a wide range of programming and development topics, which has enhanced my experience and knowledge in this field.
-
--I'm always learning new things and trying them out in my projects. I've worked on many projects using tools like WinForms, SQL Server, and ADO.NET. It's exciting to build useful applications that help me people and meet our needs.
+- I have completed the first 19 courses of [Programming Advices](https://programmingadvices.com/), which covers a wide range of programming and development topics, which has enhanced my experience and knowledge in this field.
+- I'm always learning new things and trying them out in my projects. I've worked on many projects using tools like WinForms, SQL Server, and ADO.NET. It's exciting to build useful applications that help me people and meet our needs.
 
 
 

@@ -24,8 +24,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91)&nbsp;
-![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
+![LINQ](https://img.shields.io/badge/-WinForm-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hameedorefai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="hameedorefai" />
 <br>

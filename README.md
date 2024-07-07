@@ -13,7 +13,7 @@
 - 🏢 Backend developer
 - 🎓 Bachelor in Computer Information Systems (Expected Graduation: 2025) - Al-Quds Open University
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
-- 💬 Ask me about <strong>C#, SQL Server, WinForms and Ado.net</strong>
+- 💬 Ask me about <strong>C#, SQL Server, WinForms and ADO.NET</strong>
 ### Experience
 
 - I have completed the first twenty courses of [Programming Advices](https://programmingadvices.com/), which covers a wide range of programming and development topics, which has enhanced my experience and knowledge in this field.
